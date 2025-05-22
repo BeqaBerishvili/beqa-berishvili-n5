@@ -1,0 +1,70 @@
+.nav-link {
+  font-size: 24px;
+  font-weight: 700;
+  color: #8d81ff;
+}
+
+.active {
+  color: #4e6fae;
+}
+
+.face-icon {
+  width: 50px; 
+  margin-right: 32px;
+}
+
+.tube-icon {
+  width: 71px;
+}
+
+.line {
+  display: inline-block;
+  width: 2px;
+  height: 48px;
+  background-color: #5012d5;
+}
+
+.date {
+  color: #84ff81;
+  font-size: 24px;
+  background-color: #5012d5;
+
+   
+}
+
+.month {
+  font-size: 24px;
+  color: #8d81ff;
+  display: inline;
+  vertical-align: middle;
+}
+
+.art-header {
+  font-size: 20px;
+  font-weight: 700;
+  color: #4e6fae;
+}
+
+.description {
+  font-size: 16px;
+  color: #4e6fae;
+}
+
+.information{
+  font-size: 36px;
+  font-weight: 700;
+  color: #4E6FAE;
+}
+.address{
+  font-weight: 400;
+  font-size: 20px;
+}
+.phonenumber{
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.ul{
+  display: inline-block;
+  vertical-align: middle;
+}
